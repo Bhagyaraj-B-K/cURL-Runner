@@ -1,3 +1,6 @@
+// MIT License
+// Copyright (c) 2025 Bhagyaraj BK
+
 importScripts("parse-curl.js");
 
 chrome.omnibox.onInputEntered.addListener(async (text) => {
